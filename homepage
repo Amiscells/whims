@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>No Color</title>
+</head>
+<body>
+    <header>
+        <!-- Navigation Links -->
+        <nav>
+            <ul>
+                <li><a href="index.html">Intro</a></li>
+                <li><a href="posts.html">Posts</a></li>
+                <li><a href="other.html">Other</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <!--Welcome! -->
+        <!--Welcome! -->
+        <!--Welcome! -->
+    </main>
+
+    <footer>
+        <!-- Footer has no foot -->
+    </footer>
+</body>
+</html>
